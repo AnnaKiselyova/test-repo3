@@ -1,0 +1,6 @@
+node_modules/
+.vscode/
+.idea/
+src/if-else.js
+src/math.js
+src/variables.js
